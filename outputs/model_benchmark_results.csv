@@ -1,0 +1,4 @@
+,MAE,RMSE,R2_Score,MAPE(%)
+Linear_Regression,9.882,12.593,0.958,4.04
+Ridge_Regression,9.882,12.593,0.958,4.04
+Random_Forest,7.111,9.02,0.9784,2.88
